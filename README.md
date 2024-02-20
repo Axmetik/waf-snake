@@ -1,4 +1,4 @@
-# waf-snake
+# WAF-snake
 Technical task for WAF (server and client)
 
 Both folders install dependencies using "npm install"
